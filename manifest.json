@@ -1,0 +1,12 @@
+{
+	"name": "Reddit time",
+
+	"version": "1.0",
+	"description": "Making your first Google Chrome extension.",
+
+	"browser_action":	{
+		"default_icon": "icon.png",
+		"popup": "popup.html"
+	},
+
+}
