@@ -1,6 +1,8 @@
 {
 	"name": "Reddit time",
 
+	"manifest_version": 2,
+
 	"version": "1.0",
 	"description": "Making your first Google Chrome extension.",
 
